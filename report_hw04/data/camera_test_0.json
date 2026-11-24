@@ -1,0 +1,16 @@
+{
+  "camera": 0,
+  "width": 640,
+  "height": 480,
+  "autofocus_off_accepted": false,
+  "autofocus_readback": -1.0,
+  "fps_reported": 5.0,
+  "auto_exposure": -1.0,
+  "exposure": -1.0,
+  "auto_wb": -1.0,
+  "focus": -1.0,
+  "gain": -1.0,
+  "brightness": -1.0,
+  "fps_measured": 25.0,
+  "mean_brightness": 139.7
+}
